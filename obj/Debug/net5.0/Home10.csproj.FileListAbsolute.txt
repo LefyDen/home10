@@ -1,0 +1,16 @@
+D:\Beatroot\Home10\bin\Debug\net5.0\Home10.exe
+D:\Beatroot\Home10\bin\Debug\net5.0\Home10.deps.json
+D:\Beatroot\Home10\bin\Debug\net5.0\Home10.runtimeconfig.json
+D:\Beatroot\Home10\bin\Debug\net5.0\Home10.runtimeconfig.dev.json
+D:\Beatroot\Home10\bin\Debug\net5.0\Home10.dll
+D:\Beatroot\Home10\bin\Debug\net5.0\ref\Home10.dll
+D:\Beatroot\Home10\bin\Debug\net5.0\Home10.pdb
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.csproj.AssemblyReference.cache
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.AssemblyInfoInputs.cache
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.AssemblyInfo.cs
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.csproj.CoreCompileInputs.cache
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.dll
+D:\Beatroot\Home10\obj\Debug\net5.0\ref\Home10.dll
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.pdb
+D:\Beatroot\Home10\obj\Debug\net5.0\Home10.genruntimeconfig.cache
